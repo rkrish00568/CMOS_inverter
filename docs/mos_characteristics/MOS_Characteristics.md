@@ -31,7 +31,7 @@ The **Id-Vd** characteristic illustrates the relationship between the drain curr
 - The transition point between linear and saturation regions is determined by the condition Vds = Vgs - Vth.
 
 ### Plot
-![Id-Vd Plot](plots/Id_Vd.png)
+![Id-Vd Plot](plots/Id_vds_nmos.png)
 
 ---
 
