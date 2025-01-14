@@ -16,7 +16,7 @@ The **Id-Vg** characteristic shows how the drain current (Id) varies with the ga
 - In the saturation region, Id increases quadratically with Vgs.
 
 ### Plot
-![Id-Vg Plot](plots/Id_Vg.png)
+![Id-Vg Plot](plots/Id_vgs_nmos.png)
 
 ---
 
